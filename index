@@ -1,0 +1,19 @@
+<!-- runt15 is a subsystem, merely a link to upload to an http 
+// upload button
+//opens "browse" window
+//or, drag n drop
+//then file is transferred to target.
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>"runt15 upload"</title>
+</head>
+<body>
+<h1>"welcome to the runt15</h1>
+<button type= "button">activate!</button>
+<form name= "myWebForm" action= "mailto: randy33055@yahoo.com" method= "post">
+<input type= "file" = "uploadField"/>
+</form>
+</body>
+</html>
